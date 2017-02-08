@@ -1,0 +1,13 @@
+¿QUÉ ES Y PARA QUÉ SIRVE HTML?
+
+HTML es el lenguaje que se emplea para el desarrollo de páginas de internet. Está compuesto por una seríe de etiquetas que el navegador interpreta y da forma en la pantalla. HTML dispone de etiquetas para imágenes, hipervínculos que nos permiten dirigirnos a otras páginas, saltos de línea, listas, tablas, etc.
+
+Podríamos decir que HTML sirve para crear páginas web, darles estructura y contenido. Un ejemplo sencillo de código HTML podría ser:
+
+<html>
+<body>
+<p>Esto es un párrafo. Bienvenidos a esta página web.</p>
+ Que es C++
+ 
+  lenguaje de programación diseñado a mediados de los años 1980 por Bjarne Stroustrup. La intención de su creación fue el extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido
+ 
